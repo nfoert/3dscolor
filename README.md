@@ -53,7 +53,8 @@ std::cout << FORE.blue << MOVE.goTo(30, 0) << "This line is on row 30 and column
 //           ^ Blue       ^ Move to row 30 and column 0
 ```
 
-
+## Demo
+There is a demo included. Run the `make` command to build it, then open the homebrew launcher, press `y` and then run the command `$DEVKITPRO/tools/bin/3dslink color.3dsx -a ip.address.on.3ds.screen`
 
 Credit to [this overpriced restored 3DS on walmart](https://www.walmart.com/ip/Restored-Nintendo-3DS-Aqua-Blue-Handheld-Gaming-System-with-Stylus-SD-Card-Charger/430295685?wmlspartner=wlpa&selectedSellerId=539&adid=22222222227430295685_144893864830_18291203882&wl0=&wl1=g&wl2=c&wl3=620762789706&wl4=pla-1743906452838&wl5=1023631&wl6=&wl7=&wl8=&wl9=pla&wl10=111839965&wl11=online&wl12=430295685&veh=sem&gclid=Cj0KCQjw_r6hBhDdARIsAMIDhV_WTX3G--_58AuU51Bkff4EF6u0xLKDESdWFPXqeAAauclmtWvdj4AaAqV1EALw_wcB&gclsrc=aw.ds) for the image.
 And thanks to [this article](https://guidedhacking.com/threads/intro-to-nintendo-3ds-scripting-outputs.20108/) for showing me that this was all possible.
