@@ -2,6 +2,7 @@
 A simple C++ library to assist in adding color and moving lines to specific places for Nintendo 3DS homebrew console projects.
 
 ## Usage
+Download `color.h` from the releases page and drop it into your source directory. Continue reading for instructions for how to use.
 ### Rows and colums
 ![My very classy MS Paint image](rowsAndColumns.png)
 
