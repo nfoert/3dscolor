@@ -1,5 +1,5 @@
 # 3dscolor
-A simple C++ program to assist in adding color and moving lines to specific places for Nintendo 3DS homebrew console projects.
+A simple C++ program to assist in adding color and moving lines to specific places for Nintendo 3DS homebrew console projects. If you find an issue or have an idea on how to make this better, feel free to contribute or open an issue.
 
 ## Usage
 Download `color.h` from the releases page and drop it into your source directory. Continue reading for instructions for how to use.
